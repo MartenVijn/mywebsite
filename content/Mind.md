@@ -1,10 +1,18 @@
 +++
 title = "Marten Vijn"
-tagline = "home "
+tagline = "The buzy Mind"
 +++
 
 
-Working in tech, advocating for open. Father of 2 teenagers.
+I love being active in creative thinking and problem resolving.
 
+I have a poppy mind, and more important now how move ideas into plans into the fysical
+world. 
+
+The other side also is that can restless and never seem to have time to read a book or just
+do nothing. 
+
+This nothing is a universe I am beginning to explore. To start with a gentle pauze for my mind, with 
+gratutude for all the great ideas it has spawned. 
 
 
