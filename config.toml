@@ -51,11 +51,11 @@ copyright = "&copy;2018 Marten"
 
       [[params.links.list1.link]]
         text = "Kids"
-        url = "#Kids"
+        url = "Kids/"
 
       [[params.links.list1.link]]
         text = "Work"
-        url = "#Work"
+        url = "Work"
 
   # Links List #2
   [[params.links]]
