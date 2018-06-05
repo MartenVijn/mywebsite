@@ -1,0 +1,101 @@
+# Site settings
+baseURL = "https://site.martenvijn.nl"
+languageCode = "en-US"
+title = "Marten Vijn" 
+theme = "hugo-split-theme"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+# Copyright
+copyright = "&copy;2018 Marten"
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "Marten Vijn"
+  description = "My site for some personal information, projects and activities."
+#  shareImage = "images/mvn.png"
+#  twitterHandle = "onepagelove"
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/mvn.png"
+      position = "center center"
+
+    # Video
+    [params.visual.video]
+      enable = false
+      mute = true
+      file = "videos/background.mp4"
+      # youtubeId = "dk9uNWPP7EA"
+
+  # Links
+  #
+  # Links List #1
+  [[params.links]]
+    [params.links.list1]
+      heading = "More"
+      [[params.links.list1.link]]
+        text = "A brief history"
+        url = "#History"
+
+
+      [[params.links.list1.link]]
+        text = "Kids"
+        url = "#Kids"
+
+      [[params.links.list1.link]]
+        text = "Work"
+        url = "#Work"
+
+  # Links List #2
+  [[params.links]]
+    [params.links.list2]
+      heading = "Whoami"
+
+      [[params.links.list2.link]]
+        text = "Mind"
+        url = "#Mind"
+
+      [[params.links.list2.link]]
+        text = "Heart"
+        url = "#Heart"
+
+      [[params.links.list2.link]]
+        text = "Belly"
+        url = "#belly"
+
+  [[params.links]]
+    [params.links.list3]
+      heading = "Connect"
+      [[params.links.list3.link]]
+        text = "Linkedin"
+        url = "https://linkedin.com/in/MartenVijn/"
+
+      [[params.links.list3.link]]
+        text = "Facebook"
+        url = "https://facebook.com/MartenVijn/"
+
+
+      [[params.links.list3.link]]
+        text = "Email"
+        url = "mailto:info@martenvijn.nl"
+
+      [[params.links.list3.link]]
+        text = "Resume"
+        url = "https://mail.martenvijn.nl/svn/cv/cv_2017.pdf"
+
+
+  # The original template is released under the Creative Commons Attribution 3.0 License.
+  # Please keep the original attribution link when using for your own project.
+  # If you'd like to use the template without the attribution, you can check out
+  # the license option via the template author's website: https://onepagelove.com/split
