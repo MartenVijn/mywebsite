@@ -14,7 +14,7 @@ balanced manner.
 [History]({{< ref "History.md" >}}
  [Work]({{< ref "Work.md" >}}
  [Kids]({{< ref "Kids.md" >}}
- [Mind]({{< ref "Mind.mp" >}}
+ [Mind]({{< ref "Mind.md" >}}
  [Heart]({{< ref "Heart.md" >}}
  [Belly]({{< ref "Belly.md" >}}
 
