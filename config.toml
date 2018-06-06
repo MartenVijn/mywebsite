@@ -51,11 +51,11 @@ copyright = "&copy;2018 Marten"
 
       [[params.links.list1.link]]
         text = "Kids"
-        url = "kids/"
+        url = "#Kids"
 
       [[params.links.list1.link]]
         text = "Work"
-        url = "work/"
+        url = "#work"
 
   # Links List #2
   [[params.links]]
@@ -64,7 +64,7 @@ copyright = "&copy;2018 Marten"
 
       [[params.links.list2.link]]
         text = "Mind"
-        url = "mind/"
+        url = "#Mind"
 
       [[params.links.list2.link]]
         text = "Heart"
@@ -72,7 +72,7 @@ copyright = "&copy;2018 Marten"
 
       [[params.links.list2.link]]
         text = "Belly"
-        url = "#belly"
+        url = "#Belly"
 
   [[params.links]]
     [params.links.list3]
