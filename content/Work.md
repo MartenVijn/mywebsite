@@ -1,7 +1,10 @@
 +++
 title = "Marten Vijn"
-tagline = "home "
+tagline = "Work work work"
 +++
+
+[Home]({{< ref "_index.md" >}})
+
 
 Up to 2005 I 've been working in healthcare, rehabilitation, upto the moment
 where administration seemed to become more important than patients.
