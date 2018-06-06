@@ -11,12 +11,12 @@ balanced manner.
 
 [Work]({{< ref "Work.md" >}}
  
-[History]({{< ref "History.md" >}}
- [Work]({{< ref "Work.md" >}}
- [Kids]({{< ref "Kids.md" >}}
- [Mind]({{< ref "Mind.md" >}}
- [Heart]({{< ref "Heart.md" >}}
- [Belly]({{< ref "Belly.md" >}}
+[History]({{< ref "History.md" >}})
+ [Work]({{< ref "Work.md" >}})
+ [Kids]({{< ref "Kids.md" >}})
+ [Mind]({{< ref "Mind.md" >}})
+ [Heart]({{< ref "Heart.md" >}})
+ [Belly]({{< ref "Belly.md" >}})
 
 Belly.md  Hart.md  History.md  _index.md  Kids.md  Mind.md  Work.md
 
