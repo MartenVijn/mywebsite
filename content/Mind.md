@@ -1,7 +1,9 @@
 +++
 title = "Marten Vijn"
-tagline = "The buzy Mind"
+tagline = "My buzy Mind"
 +++
+
+[home](</>)
 
 
 I love being active in creative thinking and problem resolving.

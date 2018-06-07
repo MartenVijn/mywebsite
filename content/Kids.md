@@ -1,12 +1,15 @@
 +++
 title = "Marten Vijn"
-tagline = "home "
+tagline = "Kids"
 +++
 
+[home](</>)
 
-Working in tech, advocating for open. Father of 2 teenagers.
+I am a father of 2 teenagers. Raising these,
+althought the path of often steep and rocky, 
+a privalige to be so important in new lives evolving.
 
-Love to love,sport and being active and lazy (comtemplating) in a
-balanced manner.
+Here I find determination, (com)passion and creativity.
+
 
 

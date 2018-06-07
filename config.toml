@@ -46,16 +46,16 @@ copyright = "&copy;2018 Marten"
       heading = "More"
       [[params.links.list1.link]]
         text = "A brief history"
-        url = "#History"
+        url = "/history/"
 
 
       [[params.links.list1.link]]
         text = "Kids"
-        url = "#Kids"
+        url = "/kids/"
 
       [[params.links.list1.link]]
         text = "Work"
-        url = "#work"
+        url = "/work/"
 
   # Links List #2
   [[params.links]]
@@ -64,15 +64,15 @@ copyright = "&copy;2018 Marten"
 
       [[params.links.list2.link]]
         text = "Mind"
-        url = "#Mind"
+        url = "/mind/"
 
       [[params.links.list2.link]]
         text = "Heart"
-        url = "#Heart"
+        url = "/heart/"
 
       [[params.links.list2.link]]
         text = "Belly"
-        url = "#Belly"
+        url = "/belly/"
 
   [[params.links]]
     [params.links.list3]

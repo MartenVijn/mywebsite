@@ -1,15 +1,16 @@
 +++
 title = "Marten Vijn"
-tagline = "The heart beats"
+tagline = "This heart beats"
 +++
 
+[home](</>)
 
 It took a while to discover the qualities mine has.
 
 Fine and sensitive and connected to a great love 
 for humans, the world and the universe. 
 
-And as said the exploration just has started.
+Andi, having said that, the exploration just has started.
 
 I love the be at the beginning of things..... 
 

@@ -4,13 +4,19 @@ tagline = "In the belly "
 +++
 
 
-In my belly is not so pleasant, not always. Not by 
-it self, the place where is a lot to sense and explore. 
+[home](</>)
 
-Some times better to ignore and sometimes, when the mind 
+In my belly it is not always so pleasant. It seems to be
+a very sensive radar the things that are "not right".
+
+This knowing is not as the intelligence of the Mind or Heart.
+
+By it self, there is a lot to sense and to explore. 
+
+Sometimes to ignore and sometimes, when the mind 
 and heart finally quiet a nice place to be. 
 
-And from there great place to expand
+And from there great place to expand from,
 to everything that lives, the earth and the universe...  
 
 
