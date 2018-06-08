@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://site.martenvijn.nl"
+baseURL = "https://www.martenvijn.nl"
 languageCode = "en-US"
 title = "Marten Vijn" 
 theme = "hugo-split-theme"
