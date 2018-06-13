@@ -17,8 +17,9 @@ this for almost 2 decades at SRON, Leiden University and currently Divider.
 
 In my spare time do sometime small jobs like 2/3D designs, prototyping or help 
 grassroots or NGO's with their tech setup like building websites, social media
-or communication platforms.
-
+or communication platforms. Also bootstrapping kids and youngsters into the wondering world
+of making stuff and howto organise yourself and your open source projects, as most things are code nowadays. (oke not all)
+ 
 
 And, not to forget,  also sometime organise small events around meditation and self exploration.  
 
