@@ -17,7 +17,7 @@ Then, a tat late some would say, I started to play with  tech stuff, computers a
 Evolving projects like Wireless Leiden, Open Community Camp and most late, MakerSpace Leiden. 
 
 From a retrospective, I 've alway been involved with tech and people; getting 
-things organised and realised. And also, there is a long list of unfished or dead projects;
+things organized and realized. And also, there is a long list of unfished or dead projects;
 there are a of things that pass my buzy mind.
 
 Over the last couple of years I tend to move a bit away from tech, exploring
