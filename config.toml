@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://www.martenvijn.nl"
+baseURL = "https://martenvijn.nl"
 languageCode = "en-US"
 title = "Marten Vijn" 
 theme = "hugo-split-theme"
@@ -92,7 +92,7 @@ copyright = "&copy;2018 Marten"
 
       [[params.links.list3.link]]
         text = "Resume"
-        url = "https://mail.martenvijn.nl/svn/cv/cv_2017.pdf"
+        url = "https://svn.martenvijn.nl/svn/cv/cv_2017.pdf"
 
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
