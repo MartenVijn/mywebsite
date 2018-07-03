@@ -21,6 +21,6 @@ or communication platforms. Also bootstrapping kids and youngsters into the wond
 of making stuff and howto organise yourself and your open source projects, as most things are code nowadays. (oke not all)
  
 
-And, not to forget,  also sometime organise small events around meditation and self exploration.  
+And, not to forget, also sometime organise small events around meditation and self exploration.  
 
 
