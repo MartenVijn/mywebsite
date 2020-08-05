@@ -6,7 +6,9 @@ tagline = "home "
 
 Working in tech, advocating for open. Father of 2 teenagers.
 
-Love to love, sport and being active and lazy (contemplating) in a
+Love to sport and being active and relaxing in a
 balanced manner.
+
+
 
 
