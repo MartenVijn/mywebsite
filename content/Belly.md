@@ -6,7 +6,7 @@ tagline = "In the belly "
 
 [home](</>)
 
-It seems to be a very sensive radar the things that are "not right".
+It seems to be a very sensive radar for the things that are "not right".
 
 This kind knowing is not as the intelligence of the Mind or Heart.
 
