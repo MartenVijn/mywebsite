@@ -9,7 +9,7 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2018 Marten"
+copyright = "&copy;2021 Marten"
 
 [params]
 
@@ -48,6 +48,9 @@ copyright = "&copy;2018 Marten"
         text = "A brief history"
         url = "/history/"
 
+      [[params.links.list1.link]]
+        text = "Sessions"
+        url = "/sessions/"
 
       [[params.links.list1.link]]
         text = "Kids"
