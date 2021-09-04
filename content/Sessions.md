@@ -30,4 +30,4 @@ More info:
 
 - https://www.indesmeltkroes.nl/
 - https://ifs-institute.com/
-- http://www.annelangedijk.nl/
+- https://www.innerlijke-vrede.nl/
