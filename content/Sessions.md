@@ -10,7 +10,7 @@ Beside my It-jobs, I have been spending quite some time in personal and spiritua
 
 I may write a non-technical resume soon, about the trainings I did and may follow in the near future. 
 
-Recently I did a training at the "In de Smeltkroes" bij Viram Verberk and Marie le Mahieu, assisted by Anne Langendijk. 
+Recently I did a training at the "In de Smeltkroes" bij Viram Verberk and Marie le Mahieu, assisted by Anne Langedijk. 
 
 This training "Innnerlijke Stemmen Innerlijke Leiding" (Inner Voices Inner Leading) is an introduction to the IFS (Internal Family Systems).
 
