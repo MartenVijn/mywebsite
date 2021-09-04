@@ -23,7 +23,9 @@ In the training I learned to work with those  parts, and I love working with the
 
 Curious?  drop me an email...  
 
-monday@martenvijn.nl  (Sessions on workdays only on Monday)
+monday@martenvijn.nl (Sessions are workdays only on Monday)
+
+The sessions are in Dutch. 
 
 
 More info:
